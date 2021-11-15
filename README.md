@@ -19,3 +19,10 @@ I am writing this down as if it is an easy afternoon adventure, but in fact it t
 The firmware this runs on is [QMK](https://qmk.fm/), again differing from the original from Ryan Bates, which uses Arduino code. The keymap is very basic so far and rather a template to build your own than a ready to use one.
 You can find my version of the firmware here: https://github.com/Sono-Gomorrha/qmk_firmware/tree/master/keyboards/handwired/12plus1 
 It is not yet in QMK, once it is I will update here.
+
+## Pictures
+
+Here are some pictures of the current 'finished' macropad.
+![top view](macro1.jpg)
+![side view](macro2.jpg)
+![corner view](macro3.jpg)
